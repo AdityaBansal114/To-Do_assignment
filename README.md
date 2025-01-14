@@ -77,7 +77,7 @@ A feature-rich, user-friendly to-do application built with React, Redux, and Typ
 
 ![Task List](Home.png)
 ![Login](Login.png)
-![SignUp](SignUppng)
+![SignUp](SignUp.png)
 
 
 ## Folder Structure
