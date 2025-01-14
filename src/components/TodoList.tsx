@@ -76,7 +76,6 @@ const TodoList: React.FC = () => {
         </div>
       </div>
 
-      {/* Main Content */}
       <div className="flex-1">
         <Weather />
 
