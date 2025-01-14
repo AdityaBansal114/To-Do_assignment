@@ -85,12 +85,9 @@ A feature-rich, user-friendly to-do application built with React, Redux, and Typ
 ```plaintext
 src/
 ├── components/        # Reusable UI components
-├── pages/             # Page-level components
-├── redux/             # Redux slices and store setup
-├── utils/             # Helper functions and utilities
-├── App.tsx            # Root component
-├── index.tsx          # Application entry point
-└── styles/            # TailwindCSS configurations
+├── store/             # USed for redux store
+├── types/             # contains all the types
+
 ```
 
 ## Contributing
