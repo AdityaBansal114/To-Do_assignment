@@ -73,7 +73,6 @@ A feature-rich, user-friendly to-do application built with React, Redux, and Typ
 
 ## Screenshots
 
-Add screenshots of your app showcasing the UI and functionality. Example:
 
 ![Task List](path/to/screenshot1.png)
 ![Weather Integration](path/to/screenshot2.png)
@@ -110,9 +109,6 @@ Contributions are welcome! To contribute:
    ```
 5. Create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
