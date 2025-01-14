@@ -51,7 +51,8 @@ A feature-rich, user-friendly to-do application built with React, Redux, and Typ
    - Create a `.env` file in the root directory.
    - Add the following environment variables:
      ```env
-     REACT_APP_WEATHER_API_KEY=your_openweather_api_key
+     VITE_API_KEY=your_openweather_api_key
+     VITE_API_URL=your_openweather_api_url
      ```
 5. Start the development server:
    ```bash
@@ -74,8 +75,10 @@ A feature-rich, user-friendly to-do application built with React, Redux, and Typ
 ## Screenshots
 
 
-![Task List](path/to/screenshot1.png)
-![Weather Integration](path/to/screenshot2.png)
+![Task List](path/to/Home.png)
+![Login](path/to/Login.png)
+![SignUp](path/to/SignUppng)
+
 
 ## Folder Structure
 
